@@ -1,0 +1,9 @@
+{
+  "name": "e2e-smolmachines",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
